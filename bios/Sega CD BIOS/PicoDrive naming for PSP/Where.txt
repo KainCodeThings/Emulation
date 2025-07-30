@@ -1,0 +1,4 @@
+Place them on the main directory of PicoDrive. That is: not-inside-any-sub-directory.
+
+
+cdromance.com
